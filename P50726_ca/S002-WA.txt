@@ -1,0 +1,11 @@
+---
+problem_id: P50726_ca
+submission_id: S002
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-06-15 11:35:37"
+time_out: "2021-06-15 11:35:45"
+veredict: WA
+veredict_info: ~
+title: F005A. Paraules de Fibonacci
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P96275_ca
+submission_id: S001
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-10-27 09:46:38"
+time_out: "2021-10-27 09:46:44"
+veredict: AC
+veredict_info: ~
+title: Valor absolut
+...

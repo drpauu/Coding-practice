@@ -1,0 +1,11 @@
+---
+problem_id: P79817_ca
+submission_id: S004
+compiler_id: G++
+annotation: ~
+time_in: "2021-03-15 22:02:47"
+time_out: "2021-03-15 22:02:56"
+veredict: WA
+veredict_info: ~
+title: "Pot\xE8ncies"
+...

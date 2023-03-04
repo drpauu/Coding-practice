@@ -1,0 +1,11 @@
+---
+problem_id: X51874_ca
+submission_id: S001
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2022-01-11 13:12:46"
+time_out: "2022-01-11 13:12:53"
+veredict: AC
+veredict_info: ~
+title: Esborrar els senars d'una pila.
+...

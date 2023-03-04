@@ -1,0 +1,11 @@
+---
+problem_id: X84615_ca
+submission_id: S002
+compiler_id: G++
+annotation: ~
+time_in: "2023-01-23 17:48:33"
+time_out: "2023-01-23 17:48:39"
+veredict: EE
+veredict_info: invalid memory reference
+title: "Trie TST. Freq\xFC\xE8ncia de les longituds de les claus."
+...

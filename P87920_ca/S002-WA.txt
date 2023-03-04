@@ -1,0 +1,11 @@
+---
+problem_id: P87920_ca
+submission_id: S002
+compiler_id: G++
+annotation: ~
+time_in: "2021-03-26 14:53:01"
+time_out: "2021-03-26 14:53:08"
+veredict: WA
+veredict_info: ~
+title: "Com la suma dels dem\xE9s (II)"
+...

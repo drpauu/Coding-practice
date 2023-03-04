@@ -1,0 +1,11 @@
+---
+problem_id: P29017_ca
+submission_id: S006
+compiler_id: G++11
+annotation: ~
+time_in: "2021-10-25 11:57:48"
+time_out: "2021-10-25 11:57:57"
+veredict: EE
+veredict_info: bad_alloc exception
+title: Escrivint piles
+...

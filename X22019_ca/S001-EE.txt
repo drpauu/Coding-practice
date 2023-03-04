@@ -1,0 +1,11 @@
+---
+problem_id: X22019_ca
+submission_id: S001
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2022-06-21 12:25:08"
+time_out: "2022-06-21 12:25:17"
+veredict: EE
+veredict_info: time limit exceeded
+title: Arbre de sumes
+...

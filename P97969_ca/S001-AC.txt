@@ -1,0 +1,11 @@
+---
+problem_id: P97969_ca
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2021-03-15 21:28:18"
+time_out: "2021-03-15 21:28:25"
+veredict: AC
+veredict_info: ~
+title: Comptant as (1)
+...

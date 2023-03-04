@@ -1,0 +1,11 @@
+---
+problem_id: P15613_ca
+submission_id: S001
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-10-25 19:31:42"
+time_out: "2021-10-25 19:31:50"
+veredict: WA
+veredict_info: ~
+title: Temperatures
+...

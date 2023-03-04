@@ -1,0 +1,11 @@
+---
+problem_id: P87523_en
+submission_id: S004
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-03-15 13:18:44"
+time_out: "2021-03-15 13:18:51"
+veredict: WA
+veredict_info: ~
+title: Hello-bye
+...

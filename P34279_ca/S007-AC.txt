@@ -1,0 +1,11 @@
+---
+problem_id: P34279_ca
+submission_id: S007
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-09-23 11:34:49"
+time_out: "2021-09-23 11:35:03"
+veredict: AC
+veredict_info: ~
+title: Suma d'un segon
+...

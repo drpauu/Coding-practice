@@ -1,0 +1,11 @@
+---
+problem_id: X21191_ca
+submission_id: S002
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2021-04-06 15:49:43"
+time_out: "2021-04-06 15:49:46"
+veredict: FE
+veredict_info: ~
+title: Mitjana menor d'un vector
+...

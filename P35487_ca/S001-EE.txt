@@ -1,0 +1,11 @@
+---
+problem_id: P35487_ca
+submission_id: S001
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-06-16 12:51:40"
+time_out: "2021-06-16 12:51:50"
+veredict: EE
+veredict_info: invalid memory reference
+title: F013A. Matagalls-Montserrat
+...

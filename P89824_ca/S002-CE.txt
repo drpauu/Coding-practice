@@ -1,0 +1,11 @@
+---
+problem_id: P89824_ca
+submission_id: S002
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-06-16 19:13:04"
+time_out: "2021-06-16 19:13:11"
+veredict: CE
+veredict_info: ~
+title: "F014B. Dist\xE0ncia entre els m\xEDnims"
+...

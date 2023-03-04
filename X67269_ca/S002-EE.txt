@@ -1,0 +1,11 @@
+---
+problem_id: X67269_ca
+submission_id: S002
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2022-10-22 14:19:37"
+time_out: "2022-10-22 14:19:45"
+veredict: EE
+veredict_info: invalid memory reference
+title: "Fusi\xF3 i suma dels elements de dos llistes simplement encadenades"
+...

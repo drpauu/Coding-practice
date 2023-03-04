@@ -1,0 +1,11 @@
+---
+problem_id: P62467_ca
+submission_id: S003
+compiler_id: G++11
+annotation: ~
+time_in: "2021-10-27 20:26:47"
+time_out: "2021-10-27 20:26:59"
+veredict: AC
+veredict_info: ~
+title: Barres (1)
+...

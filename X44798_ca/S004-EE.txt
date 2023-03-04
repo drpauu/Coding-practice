@@ -1,0 +1,11 @@
+---
+problem_id: X44798_ca
+submission_id: S004
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2021-04-03 22:24:49"
+time_out: "2021-04-03 22:24:55"
+veredict: EE
+veredict_info: abnormal program termination
+title: Pila Fibonacci.
+...

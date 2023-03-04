@@ -1,0 +1,11 @@
+---
+problem_id: X52404_ca
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2022-10-18 20:19:00"
+time_out: "2022-10-18 20:19:07"
+veredict: AC
+veredict_info: ~
+title: Arbre binari. Calcula arbre amb sumes
+...

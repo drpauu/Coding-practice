@@ -1,0 +1,303 @@
+#include <cstddef>
+using namespace std;
+typedef unsigned int nat;
+template <typename T>
+class deque
+{
+public:
+  deque();
+  // Pre: True
+  // Post: El p.i.  ́es una deque buida.
+  deque(const deque &dq);
+  // Pre: True
+  // Post: El p.i. cont ́e una c `opia de dq.
+  ~deque();
+  // Post: Destrueix els elements del p.i.
+  nat size() const;
+  // Pre: True
+  // Post: Retorna el nombre d’elements de la deque.
+  bool empty() const;
+  // Pre: True
+  // Post: Retorna true si la deque  ́es buida; false en cas contrari.
+  T front() const;
+  // Pre: La deque no  ́es buida.
+  // Post: Retorna el primer element de la deque.
+  T rear() const;
+  // Pre: La deque no  ́es buida.
+  // Post: Retorna l’  ́ultim element de la deque.
+  void push(T e);
+  // Pre: True
+  // Post: Insereix un element al davant de la deque.
+  void inject(T e);
+  // Pre: True
+  // Post: Insereix un element al darrera de la deque.
+  void pop();
+  // Pre: La deque no  ́es buida.
+  // Post: Elimina el primer element de la deque.
+  void eject();
+  // Pre: La deque no  ́es buida.
+  // Post: Elimina l’  ́ultim element de la deque.
+private:
+  /* Double−ended queue implementada amb una llista doblement encadenada,
+  sense fantasma i no circular . */
+  struct node
+  {
+    T info;    // Informaci  ́o del node
+    node *seg; // Punter al seg  ̈uent element
+    node *ant; // Punter a l’anterior element
+  };
+  node *prim; // Punter al primer element
+  node *ult;  // Punter a l’  ́ultim element
+  nat _long;  // Nombre d’elements
+  // Aqu ́ı va l’especificaci  ́o dels m`etodes privats addicionals
+};
+// Aqu ́ı va la implementaci  ́o dels m`etodes p  ́ublics i privats addicionals
+
+#include <iostream>
+#include <sstream>
+
+
+template <typename T>
+deque<T>::deque() : _long(0)
+{
+  prim = NULL;
+  ult = NULL;
+}
+
+template <typename T>
+deque<T>::deque(const deque &dq) : _long(dq._long)
+{
+  prim = NULL;
+  node *p, *pant = NULL, *p2 = dq.prim;
+  while (p2 != NULL)
+  {
+    p = new node;
+    p->info = p2->info;
+    p->seg = NULL;
+    p->ant = pant;
+    if (pant == NULL)
+      prim = p;
+    else
+      pant->seg = p;
+    pant = p;
+    p2 = p2->seg;
+  }
+  ult = pant;
+}
+
+template <typename T>
+deque<T>::~deque()
+{
+  node *p = prim, *pelim;
+  while (p != NULL)
+  {
+    pelim = p;
+    p = p->seg;
+    delete pelim;
+  }
+}
+
+template <typename T>
+nat deque<T>::size() const
+{
+  return _long;
+}
+
+template <typename T>
+bool deque<T>::empty() const
+{
+  return prim == NULL;
+}
+
+template <typename T>
+T deque<T>::front() const
+{
+  return prim->info;
+}
+
+template <typename T>
+T deque<T>::rear() const
+{
+  return ult->info;
+}
+
+template <typename T>
+void mostra(deque<T> dq)
+{
+  // Pre: True
+  // Post: Mostra els elements de dq pel cout entre claudàtors i separats per espais.
+  cout << "[";
+  if (not dq.empty())
+  {
+    cout << dq.front();
+    dq.pop();
+  }
+  while (not dq.empty())
+  {
+    cout << " " << dq.front();
+    dq.pop();
+  }
+  cout << "]";
+}
+
+template <typename T>
+void deque<T>::push(T e)
+// Pre: True
+// Post: Insereix un element al davant de la deque.
+{
+  if(prim != nullptr){
+    node *aux1;
+    node *aux2;
+    aux1 = new node;
+    aux1->info = e;
+    aux2 = prim;
+    prim = aux1;
+    aux1->seg = aux2;
+    aux2->ant = aux1;
+  } else{
+    node *aux1;
+    aux1 = new node;
+    aux1->info = e;
+    prim = aux1;
+    prim->seg = nullptr;
+    prim->ant = nullptr;
+  }
+  if(_long == 0){
+    ult = prim;
+  }
+  _long++;
+}
+
+template <typename T>
+void deque<T>::inject(T e)
+// Pre: True
+// Post: Insereix un element al darrera de la deque.
+{
+  if(ult == nullptr){
+    node *aux;
+    aux = new node;
+    aux->info = e;
+    ult = aux;
+    aux->seg = nullptr;
+    aux->ant = nullptr;
+  } else{
+    node *aux1, *aux2;
+    aux2 = new node;
+    aux2->info = e;
+    aux1 = ult;
+    ult = aux2;
+    aux1->seg = aux2;
+    aux2->ant = aux1;
+  }
+  if(_long == 0){
+    prim = ult;
+  }
+  _long++;
+}
+
+template <typename T>
+void deque<T>::pop()
+// Pre: La deque no  ́es buida.
+// Post: Elimina el primer element de la deque.
+
+{
+  node *aux;
+  aux = prim;
+  prim = aux->seg;
+  delete aux;
+}
+
+template <typename T>
+void deque<T>::eject()
+// Pre: La deque no  ́es buida.
+// Post: Elimina l’  ́ultim element de la deque.
+{
+  node *aux;
+  aux = ult;
+  ult = aux->ant;
+  delete aux;
+}
+
+
+template <typename T>
+void mostra_invertida(deque<T> dq)
+{
+  // Pre: True
+  // Post: Mostra en ordre invers els elements de dq pel cout entre claudàtors i separats per espais.
+  cout << "[";
+  if (not dq.empty())
+  {
+    cout << dq.rear();
+    dq.eject();
+  }
+  while (not dq.empty())
+  {
+    cout << " " << dq.rear();
+    dq.eject();
+  }
+  cout << "]";
+}
+
+int main()
+{
+  string linea, comanda;
+  int n;
+  deque<int> dq;
+
+  // Processem comandes
+  while (getline(cin, linea))
+  {
+    cout << linea << ": ";
+    istringstream ss(linea);
+    ss >> comanda;
+
+    if (comanda == "size")
+    {
+      cout << dq.size();
+    }
+    else if (comanda == "empty")
+    {
+      cout << boolalpha << dq.empty();
+    }
+    else if (comanda == "front")
+    {
+      cout << dq.front();
+    }
+    else if (comanda == "rear")
+    {
+      cout << dq.rear();
+    }
+    else if (comanda == "push")
+    {
+      ss >> n;
+      cout << n;
+      dq.push(n);
+    }
+    else if (comanda == "inject")
+    {
+      ss >> n;
+      cout << n;
+      dq.inject(n);
+    }
+    else if (comanda == "pop")
+    {
+      cout << dq.front();
+      dq.pop();
+    }
+    else if (comanda == "eject")
+    {
+      cout << dq.rear();
+      dq.eject();
+    }
+    else if (comanda == "mostra")
+    {
+      mostra(dq);
+    }
+    else if (comanda == "mostra_invertida")
+    {
+      mostra_invertida(dq);
+    }
+    cout << endl;
+  }
+  return 0;
+}

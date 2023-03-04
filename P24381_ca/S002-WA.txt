@@ -1,0 +1,11 @@
+---
+problem_id: P24381_ca
+submission_id: S002
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-10-25 19:25:58"
+time_out: "2021-10-25 19:26:06"
+veredict: WA
+veredict_info: ~
+title: Escriviu una creu
+...

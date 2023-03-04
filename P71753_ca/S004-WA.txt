@@ -1,0 +1,11 @@
+---
+problem_id: P71753_ca
+submission_id: S004
+compiler_id: G++
+annotation: ~
+time_in: "2021-03-15 22:47:14"
+time_out: "2021-03-15 22:47:21"
+veredict: WA
+veredict_info: ~
+title: "M\xE0xim de cada seq\xFC\xE8ncia"
+...

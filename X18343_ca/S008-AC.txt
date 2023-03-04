@@ -1,0 +1,12 @@
+---
+problem_id: X18343_ca
+submission_id: S008
+compiler_id: G++
+annotation: ~
+time_in: "2023-01-25 18:28:30"
+time_out: "2023-01-25 18:28:36"
+veredict: AC
+veredict_info: ~
+title: "Ordenaci\xF3 eficient d'una llista doblement encadenada, no circular i sense
+  fantasma"
+...

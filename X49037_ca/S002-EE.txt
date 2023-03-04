@@ -1,0 +1,11 @@
+---
+problem_id: X49037_ca
+submission_id: S002
+compiler_id: G++
+annotation: ~
+time_in: "2022-10-19 00:48:54"
+time_out: "2022-10-19 00:49:04"
+veredict: EE
+veredict_info: invalid memory reference
+title: "Arbre binari. Elements del nivell n-\xE8ssim"
+...

@@ -1,0 +1,11 @@
+---
+problem_id: X84615_ca
+submission_id: S004
+compiler_id: G++
+annotation: ~
+time_in: "2023-01-26 11:59:17"
+time_out: "2023-01-26 11:59:24"
+veredict: AC
+veredict_info: ~
+title: "Trie TST. Freq\xFC\xE8ncia de les longituds de les claus."
+...

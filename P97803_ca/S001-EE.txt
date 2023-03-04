@@ -1,0 +1,11 @@
+---
+problem_id: P97803_ca
+submission_id: S001
+compiler_id: Clang++17
+annotation: ~
+time_in: "2022-03-05 13:04:29"
+time_out: "2022-03-05 13:04:39"
+veredict: EE
+veredict_info: illegal instruction
+title: Biblioteca
+...

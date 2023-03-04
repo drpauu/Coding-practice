@@ -1,0 +1,11 @@
+---
+problem_id: X92251_ca
+submission_id: S002
+compiler_id: G++
+annotation: ~
+time_in: "2022-06-20 00:56:40"
+time_out: "2022-06-20 00:56:50"
+veredict: EE
+veredict_info: bad_alloc exception
+title: Suma per sobre o per sota en una pila
+...

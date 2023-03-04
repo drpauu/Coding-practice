@@ -1,0 +1,11 @@
+---
+problem_id: P29017_ca
+submission_id: S013
+compiler_id: G++11
+annotation: ~
+time_in: "2021-10-25 12:12:12"
+time_out: "2021-10-25 12:12:20"
+veredict: EE
+veredict_info: invalid memory reference
+title: Escrivint piles
+...

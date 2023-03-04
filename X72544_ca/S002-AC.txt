@@ -1,0 +1,11 @@
+---
+problem_id: X72544_ca
+submission_id: S002
+compiler_id: G++
+annotation: ~
+time_in: "2022-10-23 13:18:52"
+time_out: "2022-10-23 13:18:58"
+veredict: AC
+veredict_info: ~
+title: "Arbre general. Crea fills amb les sumes dels elements de cada cam\xED"
+...

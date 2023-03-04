@@ -1,0 +1,11 @@
+---
+problem_id: P90861_ca
+submission_id: S005
+compiler_id: G++
+annotation: ~
+time_in: "2021-03-29 18:16:51"
+time_out: "2021-03-29 18:17:02"
+veredict: PE
+veredict_info: ~
+title: Cues d'un supermercat (1)
+...

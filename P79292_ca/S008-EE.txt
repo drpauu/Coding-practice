@@ -1,0 +1,11 @@
+---
+problem_id: P79292_ca
+submission_id: S008
+compiler_id: G++
+annotation: ~
+time_in: "2023-01-09 22:19:14"
+time_out: "2023-01-09 22:19:23"
+veredict: EE
+veredict_info: time limit exceeded
+title: Cues d'un supermercat (3)
+...

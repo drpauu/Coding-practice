@@ -1,0 +1,11 @@
+---
+problem_id: P81966_ca
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2021-04-03 00:14:08"
+time_out: "2021-04-03 00:14:20"
+veredict: AC
+veredict_info: ~
+title: "Cerca dicot\xF2mica"
+...

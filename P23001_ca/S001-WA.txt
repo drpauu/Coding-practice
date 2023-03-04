@@ -1,0 +1,11 @@
+---
+problem_id: P23001_ca
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2021-03-16 11:25:41"
+time_out: "2021-03-16 11:25:49"
+veredict: WA
+veredict_info: ~
+title: Paraules consecutives repetides
+...

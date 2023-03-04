@@ -1,0 +1,11 @@
+---
+problem_id: X30464_ca
+submission_id: S002
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2022-06-20 11:59:31"
+time_out: "2022-06-20 11:59:38"
+veredict: AC
+veredict_info: ~
+title: "Adaptar BinaryTree per a mantenir informaci\xF3 sobre la mida"
+...

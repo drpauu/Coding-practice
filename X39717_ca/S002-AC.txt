@@ -1,0 +1,11 @@
+---
+problem_id: X39717_ca
+submission_id: S002
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2022-10-19 23:08:20"
+time_out: "2022-10-19 23:08:28"
+veredict: AC
+veredict_info: ~
+title: Arbre binari enfilat. Recorregut en preordre
+...

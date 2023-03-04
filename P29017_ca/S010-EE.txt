@@ -1,0 +1,11 @@
+---
+problem_id: P29017_ca
+submission_id: S010
+compiler_id: G++11
+annotation: ~
+time_in: "2021-10-25 12:09:08"
+time_out: "2021-10-25 12:09:17"
+veredict: EE
+veredict_info: time limit exceeded
+title: Escrivint piles
+...

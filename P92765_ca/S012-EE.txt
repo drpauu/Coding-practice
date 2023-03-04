@@ -1,0 +1,11 @@
+---
+problem_id: P92765_ca
+submission_id: S012
+compiler_id: G++
+annotation: ~
+time_in: "2023-01-24 10:24:12"
+time_out: "2023-01-24 10:24:19"
+veredict: EE
+veredict_info: invalid memory reference
+title: Arbres - Buscant en un arbre de cerca
+...

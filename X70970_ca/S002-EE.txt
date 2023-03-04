@@ -1,0 +1,11 @@
+---
+problem_id: X70970_ca
+submission_id: S002
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2022-03-31 09:29:23"
+time_out: "2022-03-31 09:29:31"
+veredict: EE
+veredict_info: time limit exceeded
+title: "Cerca en un BST (arbre de cerca bin\xE0ria)"
+...

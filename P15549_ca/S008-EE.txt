@@ -1,0 +1,11 @@
+---
+problem_id: P15549_ca
+submission_id: S008
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-04-04 00:00:37"
+time_out: "2021-04-04 00:00:43"
+veredict: EE
+veredict_info: time limit exceeded
+title: "Ordenaci\xF3 per bombolla"
+...

@@ -1,0 +1,11 @@
+---
+problem_id: X78579_ca
+submission_id: S003
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2022-05-03 13:13:34"
+time_out: "2022-05-03 13:13:40"
+veredict: AC
+veredict_info: ~
+title: "M\xE8tode de Stack per a accedir al segon element des del top"
+...

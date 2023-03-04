@@ -1,0 +1,11 @@
+---
+problem_id: P37500_en
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2021-03-01 19:19:37"
+time_out: "2021-03-01 19:19:50"
+veredict: AC
+veredict_info: ~
+title: First numbers
+...

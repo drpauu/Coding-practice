@@ -1,0 +1,11 @@
+---
+problem_id: P42523_ca
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2021-04-02 18:08:58"
+time_out: "2021-04-02 18:09:03"
+veredict: CE
+veredict_info: ~
+title: "M\xE0xim com\xFA divisor recursiu"
+...

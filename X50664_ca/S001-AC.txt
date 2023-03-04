@@ -1,0 +1,11 @@
+---
+problem_id: X50664_ca
+submission_id: S001
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2022-05-10 13:35:18"
+time_out: "2022-05-10 13:35:23"
+veredict: AC
+veredict_info: ~
+title: "M\xE8tode de Queue per a multiplicar els elements de la cua per un par\xE0metre"
+...

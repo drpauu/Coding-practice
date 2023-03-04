@@ -1,0 +1,12 @@
+---
+problem_id: X16609_ca
+submission_id: S001
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2022-06-20 23:56:20"
+time_out: "2022-06-20 23:56:26"
+veredict: AC
+veredict_info: ~
+title: "M\xE8tode de llistes per a moure l'element apuntat per un iterador una posici\xF3
+  cap al final"
+...

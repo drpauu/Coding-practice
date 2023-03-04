@@ -1,0 +1,11 @@
+---
+problem_id: X38448_ca
+submission_id: S006
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2021-06-10 00:13:21"
+time_out: "2021-06-10 00:13:29"
+veredict: EE
+veredict_info: abnormal program termination
+title: Pila inclosa (subpila).
+...

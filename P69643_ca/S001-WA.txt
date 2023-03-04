@@ -1,0 +1,11 @@
+---
+problem_id: P69643_ca
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2021-03-30 22:32:42"
+time_out: "2021-03-30 22:33:21"
+veredict: WA
+veredict_info: ~
+title: "Comprovant par\xE8ntesis"
+...

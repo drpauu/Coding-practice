@@ -1,0 +1,11 @@
+---
+problem_id: X57825_ca
+submission_id: S002
+compiler_id: G++
+annotation: ~
+time_in: "2023-01-10 19:17:48"
+time_out: "2023-01-10 19:17:54"
+veredict: AC
+veredict_info: ~
+title: "Arbre general. Modifica arbre amb el seu sim\xE8tric."
+...

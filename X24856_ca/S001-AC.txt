@@ -1,0 +1,11 @@
+---
+problem_id: X24856_ca
+submission_id: S001
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2022-10-05 23:28:15"
+time_out: "2022-10-05 23:28:22"
+veredict: AC
+veredict_info: ~
+title: "Creaci\xF3 d'una cua circular a partir d'un vector"
+...

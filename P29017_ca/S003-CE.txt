@@ -1,0 +1,11 @@
+---
+problem_id: P29017_ca
+submission_id: S003
+compiler_id: G++11
+annotation: ~
+time_in: "2021-10-25 11:52:33"
+time_out: "2021-10-25 11:52:40"
+veredict: CE
+veredict_info: ~
+title: Escrivint piles
+...

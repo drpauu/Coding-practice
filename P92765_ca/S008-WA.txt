@@ -1,0 +1,11 @@
+---
+problem_id: P92765_ca
+submission_id: S008
+compiler_id: G++
+annotation: ~
+time_in: "2023-01-11 14:07:49"
+time_out: "2023-01-11 14:08:00"
+veredict: WA
+veredict_info: ~
+title: Arbres - Buscant en un arbre de cerca
+...

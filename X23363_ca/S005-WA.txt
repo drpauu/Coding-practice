@@ -1,0 +1,11 @@
+---
+problem_id: X23363_ca
+submission_id: S005
+compiler_id: G++
+annotation: ~
+time_in: "2022-10-21 21:43:22"
+time_out: "2022-10-21 21:43:29"
+veredict: WA
+veredict_info: ~
+title: Arbre general. Modifica arbre amb altures de cada subarbre.
+...

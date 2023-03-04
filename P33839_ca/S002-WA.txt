@@ -1,0 +1,11 @@
+---
+problem_id: P33839_ca
+submission_id: S002
+compiler_id: G++
+annotation: ~
+time_in: "2021-03-15 21:46:07"
+time_out: "2021-03-15 21:46:17"
+veredict: WA
+veredict_info: ~
+title: "Suma de d\xEDgits"
+...

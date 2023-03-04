@@ -1,0 +1,11 @@
+---
+problem_id: X31110_ca
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2022-09-26 21:25:26"
+time_out: "2022-09-26 21:25:33"
+veredict: AC
+veredict_info: ~
+title: "Fusi\xF3 dels elements de dues cues ordenades no circulars"
+...

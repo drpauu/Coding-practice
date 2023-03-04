@@ -1,0 +1,11 @@
+---
+problem_id: P75149_ca
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2021-03-15 21:26:30"
+time_out: "2021-03-15 21:26:37"
+veredict: AC
+veredict_info: ~
+title: Buscant una a
+...

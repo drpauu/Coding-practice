@@ -1,0 +1,11 @@
+---
+problem_id: X89802_ca
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2022-11-30 22:23:38"
+time_out: "2022-11-30 22:23:44"
+veredict: CE
+veredict_info: ~
+title: "Intersecci\xF3 de taules de dispersi\xF3 amb sin\xF2nims encadenats indirectes"
+...

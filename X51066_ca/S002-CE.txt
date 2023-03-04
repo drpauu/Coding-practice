@@ -1,0 +1,11 @@
+---
+problem_id: X51066_ca
+submission_id: S002
+compiler_id: G++
+annotation: ~
+time_in: "2022-10-05 18:38:15"
+time_out: "2022-10-05 18:38:21"
+veredict: CE
+veredict_info: ~
+title: Doble cua (deque) implementada amb una llista doblement encadenada
+...

@@ -1,0 +1,11 @@
+---
+problem_id: X10656_ca
+submission_id: S002
+compiler_id: G++
+annotation: ~
+time_in: "2022-10-20 12:06:11"
+time_out: "2022-10-20 12:06:25"
+veredict: AC
+veredict_info: ~
+title: "Arbre general. Quants nodes de grau n t\xE9?"
+...

@@ -1,0 +1,11 @@
+---
+problem_id: X98475_ca
+submission_id: S007
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2022-03-30 13:30:52"
+time_out: "2022-03-30 13:31:00"
+veredict: EE
+veredict_info: time limit exceeded
+title: Suma dels valors d'un arbre
+...

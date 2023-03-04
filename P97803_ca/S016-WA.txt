@@ -1,0 +1,11 @@
+---
+problem_id: P97803_ca
+submission_id: S016
+compiler_id: Clang++17
+annotation: ~
+time_in: "2022-04-01 00:39:18"
+time_out: "2022-04-01 00:39:30"
+veredict: WA
+veredict_info: ~
+title: Biblioteca
+...

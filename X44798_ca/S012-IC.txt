@@ -1,0 +1,11 @@
+---
+problem_id: X44798_ca
+submission_id: S012
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2022-01-14 13:10:08"
+time_out: "2022-01-14 13:10:15"
+veredict: IC
+veredict_info: ~
+title: Pila Fibonacci.
+...

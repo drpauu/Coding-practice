@@ -1,0 +1,11 @@
+---
+problem_id: X81805_ca
+submission_id: S004
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2022-10-18 17:40:26"
+time_out: "2022-10-18 17:40:33"
+veredict: AC
+veredict_info: ~
+title: Generar l'arbre de sumes d'un arbre binari
+...

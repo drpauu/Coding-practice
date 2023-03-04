@@ -1,0 +1,11 @@
+---
+problem_id: P35537_ca
+submission_id: S003
+compiler_id: G++
+annotation: ~
+time_in: "2021-04-02 17:28:53"
+time_out: "2021-04-02 17:29:00"
+veredict: CE
+veredict_info: ~
+title: Nombres creixents
+...

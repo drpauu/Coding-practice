@@ -1,0 +1,11 @@
+---
+problem_id: P67454_ca
+submission_id: S002
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-03-15 12:58:12"
+time_out: "2021-03-15 12:58:21"
+veredict: AC
+veredict_info: ~
+title: Comptant as (2)
+...

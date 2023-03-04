@@ -1,0 +1,11 @@
+---
+problem_id: P65072_ca
+submission_id: S007
+compiler_id: Clang++17
+annotation: ~
+time_in: "2022-03-02 13:46:52"
+time_out: "2022-03-02 13:47:01"
+veredict: EE
+veredict_info: time limit exceeded
+title: "Pal\xEDndroms amb piles"
+...

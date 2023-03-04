@@ -1,0 +1,11 @@
+---
+problem_id: P66257_ca
+submission_id: S002
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-06-22 11:22:33"
+time_out: "2021-06-22 11:22:41"
+veredict: EE
+veredict_info: abnormal program termination
+title: "L'element m\xE9s freq\xFCent"
+...

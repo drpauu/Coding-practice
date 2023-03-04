@@ -1,0 +1,11 @@
+---
+problem_id: P68688_es
+submission_id: S002
+compiler_id: G++11
+annotation: ~
+time_in: "2021-02-22 18:05:59"
+time_out: "2021-02-22 18:06:06"
+veredict: AC
+veredict_info: ~
+title: Hola a todos!
+...

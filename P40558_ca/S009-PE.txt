@@ -1,0 +1,11 @@
+---
+problem_id: P40558_ca
+submission_id: S009
+compiler_id: G++
+annotation: ~
+time_in: "2023-01-09 10:51:33"
+time_out: "2023-01-09 10:51:43"
+veredict: PE
+veredict_info: ~
+title: Ordenant amb cues de prioritats
+...

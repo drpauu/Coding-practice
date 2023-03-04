@@ -1,0 +1,11 @@
+---
+problem_id: P31716_ca
+submission_id: S001
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-06-15 14:57:12"
+time_out: "2021-06-15 14:57:18"
+veredict: WA
+veredict_info: ~
+title: F014A. Nombres macos
+...

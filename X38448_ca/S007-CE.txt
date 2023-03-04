@@ -1,0 +1,11 @@
+---
+problem_id: X38448_ca
+submission_id: S007
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2022-01-11 12:01:40"
+time_out: "2022-01-11 12:01:47"
+veredict: CE
+veredict_info: ~
+title: Pila inclosa (subpila).
+...

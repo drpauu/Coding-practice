@@ -1,0 +1,11 @@
+---
+problem_id: P94818_ca
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2022-11-30 23:56:53"
+time_out: "2022-11-30 23:57:00"
+veredict: AC
+veredict_info: ~
+title: Inserint en un arbre de cerca
+...

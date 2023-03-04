@@ -1,0 +1,11 @@
+---
+problem_id: X51066_ca
+submission_id: S007
+compiler_id: G++
+annotation: ~
+time_in: "2022-10-05 19:38:30"
+time_out: "2022-10-05 19:38:36"
+veredict: EE
+veredict_info: time limit exceeded
+title: Doble cua (deque) implementada amb una llista doblement encadenada
+...

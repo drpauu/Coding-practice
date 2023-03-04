@@ -1,0 +1,11 @@
+---
+problem_id: P14130_en
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2020-12-08 19:11:31"
+time_out: "2020-12-08 19:11:40"
+veredict: AC
+veredict_info: ~
+title: Equal to the last one
+...

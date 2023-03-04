@@ -1,0 +1,11 @@
+---
+problem_id: P19564_ca
+submission_id: S007
+compiler_id: G++11
+annotation: ~
+time_in: "2021-10-24 21:16:54"
+time_out: "2021-10-24 21:17:03"
+veredict: EE
+veredict_info: time limit exceeded
+title: Control C301B
+...

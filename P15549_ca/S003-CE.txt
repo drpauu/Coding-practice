@@ -1,0 +1,11 @@
+---
+problem_id: P15549_ca
+submission_id: S003
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-04-03 23:26:45"
+time_out: "2021-04-03 23:26:50"
+veredict: CE
+veredict_info: ~
+title: "Ordenaci\xF3 per bombolla"
+...

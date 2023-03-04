@@ -1,0 +1,11 @@
+---
+problem_id: X45082_ca
+submission_id: S001
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2021-04-06 16:28:47"
+time_out: "2021-04-06 16:28:55"
+veredict: AC
+veredict_info: ~
+title: Element central d'una llista
+...

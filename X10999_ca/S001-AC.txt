@@ -1,0 +1,11 @@
+---
+problem_id: X10999_ca
+submission_id: S001
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2022-06-20 23:02:23"
+time_out: "2022-06-20 23:02:29"
+veredict: AC
+veredict_info: ~
+title: "M\xE8tode per a moure el primer element d'una cua cap a la \xFAltima posici\xF3"
+...

@@ -1,0 +1,11 @@
+---
+problem_id: X59210_ca
+submission_id: S001
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2022-10-06 10:52:08"
+time_out: "2022-10-06 10:52:16"
+veredict: WA
+veredict_info: ~
+title: "Creaci\xF3 d'una llista amb fantasma a partir d'un vector"
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P92613_ca
+submission_id: S002
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-09-23 11:48:26"
+time_out: "2021-09-23 11:48:37"
+veredict: WA
+veredict_info: ~
+title: Arrodoniments
+...

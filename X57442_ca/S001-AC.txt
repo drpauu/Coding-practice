@@ -1,0 +1,11 @@
+---
+problem_id: X57442_ca
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2022-10-19 19:04:18"
+time_out: "2022-10-19 19:04:25"
+veredict: AC
+veredict_info: ~
+title: Arbre general. Modifica arbre amb suma fills.
+...

@@ -1,0 +1,12 @@
+---
+problem_id: X78824_ca
+submission_id: S004
+compiler_id: G++
+annotation: ~
+time_in: "2023-01-09 23:43:43"
+time_out: "2023-01-09 23:43:50"
+veredict: EE
+veredict_info: invalid memory reference
+title: "Graf dirigit amb matriu d'adjac\xE8ncia. Hi ha cam\xED d'un v\xE8rtex a un
+  altre?"
+...

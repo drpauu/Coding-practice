@@ -1,0 +1,11 @@
+---
+problem_id: X35139_ca
+submission_id: S001
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2022-05-03 13:50:26"
+time_out: "2022-05-03 13:50:32"
+veredict: EE
+veredict_info: invalid memory reference
+title: "M\xE8tode de Stack per a esborrar el primer element igual al par\xE0metre"
+...

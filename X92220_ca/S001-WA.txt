@@ -1,0 +1,12 @@
+---
+problem_id: X92220_ca
+submission_id: S001
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2022-10-24 12:40:46"
+time_out: "2022-10-24 12:40:55"
+veredict: WA
+veredict_info: ~
+title: "Fusi\xF3 i suma dels elements de dos llistes simplement encadenades, circulars
+  i amb fantasma"
+...

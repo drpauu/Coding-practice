@@ -1,0 +1,12 @@
+---
+problem_id: X32546_ca
+submission_id: S001
+compiler_id: G++
+annotation: ~
+time_in: "2023-01-09 19:53:47"
+time_out: "2023-01-09 19:53:54"
+veredict: CE
+veredict_info: ~
+title: "Redispersi\xF3 en taules de dispersi\xF3 amb direccionament obert fent sondeig
+  lineal"
+...

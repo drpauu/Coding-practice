@@ -1,0 +1,11 @@
+---
+problem_id: P69546_ca
+submission_id: S002
+compiler_id: Clang++17
+annotation: ~
+time_in: "2022-04-02 17:30:52"
+time_out: "2022-04-02 17:31:02"
+veredict: EE
+veredict_info: invalid memory reference
+title: Piles de cromos
+...

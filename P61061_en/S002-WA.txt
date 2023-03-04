@@ -1,0 +1,11 @@
+---
+problem_id: P61061_en
+submission_id: S002
+compiler_id: Clang++17
+annotation: ~
+time_in: "2020-11-04 04:29:27"
+time_out: "2020-11-04 04:29:35"
+veredict: WA
+veredict_info: ~
+title: Product of digits
+...

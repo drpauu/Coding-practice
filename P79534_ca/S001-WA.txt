@@ -1,0 +1,11 @@
+---
+problem_id: P79534_ca
+submission_id: S001
+compiler_id: Clang++17
+annotation: ~
+time_in: "2021-06-15 12:28:10"
+time_out: "2021-06-15 12:28:17"
+veredict: WA
+veredict_info: ~
+title: "P0006. Nombres fant\xE0stics"
+...

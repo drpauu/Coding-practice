@@ -1,0 +1,11 @@
+---
+problem_id: P79292_ca
+submission_id: S005
+compiler_id: G++
+annotation: ~
+time_in: "2023-01-09 22:15:51"
+time_out: "2023-01-09 22:16:01"
+veredict: EE
+veredict_info: invalid memory reference
+title: Cues d'un supermercat (3)
+...

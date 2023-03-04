@@ -1,0 +1,12 @@
+---
+problem_id: X66872_ca
+submission_id: S002
+compiler_id: MakePRO2
+annotation: ~
+time_in: "2022-10-22 10:00:42"
+time_out: "2022-10-22 10:00:51"
+veredict: AC
+veredict_info: ~
+title: "Separaci\xF3 dels elements de les posicions parells i senars d'una llista
+  simplement encadenada"
+...
